@@ -1,5 +1,7 @@
 # GameHub
 
+Created by Noah Pessell
+
 ## Checklist
 
 - [ ] frequent commits to github.
